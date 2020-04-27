@@ -1,9 +1,9 @@
 Gitの練習をしていきます。
 変更しました！！！
 
-git status
+git status:状態確認
 
-git add
-git rm
+git add:ステージに追加
+git rm:削除したことをステージに追加
 
-git commit
+git commit:コミットする
