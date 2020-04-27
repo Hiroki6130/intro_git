@@ -7,3 +7,5 @@ git add:ステージに追加
 git rm:削除したことをステージに追加
 
 git commit:コミットする
+git dif:ステージとの差分
+git dif
